@@ -4,7 +4,7 @@
 
 I’m an Web developer specializing in React Js and Django framework (python). I am competant and confident about web technologies, I love exploring newer software engineering paradigms and to be completely honest, I do get excited about new frameworks 🤣
 
-- 📱 I’m currently working as a Junior Software Developer @Vesatogo Innovations
+- 📱 I’m currently working as a Junior Software Developer
 - 🤓 I’m currently learning Flutter.
 - 💬 Ask me about ReactJs, Django, AWS, Docker.
 - 📫 How to reach me: [Portfolio Website](https://malikbagwala.dev/)
