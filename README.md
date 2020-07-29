@@ -1,4 +1,4 @@
-﻿<img align="right" src="https://github.com/MalikBagwala/MalikBagwala/blob/master/hero.jpg" alt="Illustration of Dev Malik at work" width=350px height=465px/>
+﻿<img align="right" src="https://github.com/MalikBagwala/MalikBagwala/blob/master/hero.jpg" alt="Illustration of Dev Malik at work" width=400px height=465px/>
 
 ### Hello, I'm Malik 👋
 
