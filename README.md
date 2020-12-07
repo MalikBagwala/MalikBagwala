@@ -7,7 +7,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/MalikBagwala/MalikBagwala?style=for-the-badge)](https://github.com/MalikBagwala/MalikBagwala)
 <br><br>
 
-I’m an Web developer specializing in React Js and Django framework (python). I am competant and confident about web technologies, I love exploring newer software engineering paradigms and to be completely honest, I do get excited about new frameworks 🤣
+I’m an Web developer specialising in React Js and Django framework (python). I am competent and confident about web technologies, I love exploring newer software engineering paradigms and to be completely honest, I do get excited about new frameworks 🤣
 
 - 📱 I’m currently working as a Junior Software Developer
 - 🤓 I’m currently learning Flutter.
