@@ -12,5 +12,5 @@ I’m an Web developer specialising in React Js and Django framework (python). I
 - 📱 I’m currently working as a React Developer
 - 🤓 I’m currently learning Flutter.
 - 💬 Ask me about ReactJs, Django, AWS, Docker.
-- 📫 How to reach me: [Portfolio Website](https://malikbagwala.dev/)
+- 📫 How to reach me: [Portfolio Website](https://maalik.dev/)
 - 🧑‍🎤 Fun fact: I love music, especially hip-hop!
