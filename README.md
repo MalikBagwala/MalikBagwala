@@ -9,7 +9,7 @@
 
 I’m an Web developer specialising in React Js and Django framework (python). I am competent and confident about web technologies, I love exploring newer software engineering paradigms and to be completely honest, I do get excited about new frameworks 🤣
 
-- 📱 I’m currently working as a React Developer
+- 📱 I’m currently working as a Senior Software Engineer.
 - 🤓 I’m currently learning Flutter.
 - 💬 Ask me about ReactJs, Django, AWS, Docker.
 - 📫 How to reach me: [Portfolio Website](https://maalik.dev/)
