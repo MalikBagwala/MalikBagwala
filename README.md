@@ -2,6 +2,7 @@
 
 ### Hello, I'm Malik 👋
 
+<div style="display: flex, gap: 10px">
 <a href="https://maalik.dev">
 <img src="https://img.shields.io/badge/maalik.dev-UP-green?logo=link&style=for-the-badge" height="27px" alt="Website"/>
 </a>
@@ -9,6 +10,7 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="27px"  alt="LinkedLn"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=MalikBagwala&style=flat-square" height="27px" alt="Profile Visits"/>
+</div>
 <br><br>
 
 I’m an Web developer specialising in React Js and Django framework (python). I am competent and confident about web technologies, I love exploring newer software engineering paradigms and to be completely honest, I do get excited about new frameworks 🤣
