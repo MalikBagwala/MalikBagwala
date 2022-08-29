@@ -1,10 +1,14 @@
-﻿<img align="right" src="https://github.com/MalikBagwala/MalikBagwala/blob/master/hero.jpg" alt="Illustration of Dev Malik at work" width=370px height=auto/>
+﻿<img align="right" src="./hero.jpg" alt="Illustration of Dev Malik at work" width=370px height=auto/>
 
 ### Hello, I'm Malik 👋
 
-[![Website](https://img.shields.io/badge/maalik.dev-UP-green?logo=link&style=for-the-badge)](https://maalik.dev)
-[![LinkedLn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-bagwala-b989b5185/)
-[![Visits Badge](https://badges.pufler.dev/visits/MalikBagwala/MalikBagwala?style=for-the-badge](https://komarev.com/ghpvc/?username=MalikBagwala&style=flat-square)](https://github.com/MalikBagwala/MalikBagwala)
+<a href="https://maalik.dev">
+<img src="https://img.shields.io/badge/maalik.dev-UP-green?logo=link&style=for-the-badge" height="27px" alt="Website"/>
+</a>
+<a href="https://www.linkedin.com/in/malikbagwala/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="27px"  alt="LinkedLn"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=MalikBagwala&style=flat-square" height="27px" alt="Profile Visits"/>
 <br><br>
 
 I’m an Web developer specialising in React Js and Django framework (python). I am competent and confident about web technologies, I love exploring newer software engineering paradigms and to be completely honest, I do get excited about new frameworks 🤣
