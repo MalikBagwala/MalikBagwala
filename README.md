@@ -17,7 +17,7 @@
 #### Let's get in touch! Feel free to DM me for discussion.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Malik%20Bagwala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikbagwala/)
-[![Mail Badge](https://img.shields.io/badge/-MalikBagwala-d62976?style=flat&labelColor=d62976&logo=threads&logoColor=white)](https://threads.net/the_insane_bagwala)
+[![Mail Badge](https://img.shields.io/badge/-@MalikBagwala-e2432a?style=flat&labelColor=e2432a&logo=gitlab&logoColor=white)](https://gitlab.com/MalikBagwala)
 [![Twitter Badge](https://img.shields.io/badge/-@MalikBagwala-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MalikBagwala)](https://twitter.com/MalikBagwala)
 [![Mail Badge](https://img.shields.io/badge/-hello@maalik.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hello@maalik.dev)
 [![](https://komarev.com/ghpvc/?username=MalikBagwala&color=blue&label=Profile%20Views)](https://github.com/MalikBagwala/MalikBagwala)
