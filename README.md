@@ -1,22 +1,32 @@
-﻿<img align="right" src="./hero.jpg" alt="Illustration of Dev Malik at work" width=370px height=auto/>
+﻿<h1 class="flex"><img src="./wave.gif" width="32" />&nbsp;Hi, I'm Maalik</h1>
 
-### Hello, I'm Malik 👋
+<p align="left">
+  <samp>
+    <a href="https://maalik.dev" target='_blank'>website & portfolio</a> .
+    <a href="https://maalik.dev/blog" target='_blank'>blog</a> 
+  </samp>
+</p>
 
-<div style="display: flex, gap: 10px">
-<a href="https://maalik.dev">
-<img src="https://img.shields.io/badge/maalik.dev-UP-green?logo=link&style=for-the-badge" height="27px" alt="Website"/>
-</a>
-<a href="https://www.linkedin.com/in/malikbagwala/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="27px"  alt="LinkedLn"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=MalikBagwala&style=flat-square" height="27px" alt="Profile Visits"/>
-</div>
-<br><br>
+- 🏢 I'm currently working as a Front-end Lead at [Vesatogo Innovations](https://www.linkedin.com/company/vesatogo).
+- ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
+- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
+- 🤓 I’m currently learning [Django](https://www.djangoproject.com/start/overview/) and other backend technologies and transitioning towards a Full stack developer.
+- 💬 Ask me anything about React, Django, Docker and Devops
+- 📫 You can reach out to me directly through [Telegram](https://t.me/MalikBagwala).
 
-I’m an Web developer specialising in React Js and Django framework (python). I am competent and confident about web technologies, I love exploring newer software engineering paradigms and to be completely honest, I do get excited about new frameworks 🤣
+#### Let's get in touch! Feel free to DM me for discussion.
 
-- 📱 I’m currently working as a Senior Software Developer.
-- 🤓 I’m currently learning Flutter.
-- 💬 Ask me about ReactJs, Django, AWS, Docker.
-- 📫 How to reach me: [Portfolio Website](https://maalik.dev/)
-- 🧑‍🎤 Fun fact: I love music, especially hip-hop!
+[![Linkedin Badge](https://img.shields.io/badge/-Malik%20Bagwala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikbagwala/)
+[![Mail Badge](https://img.shields.io/badge/-MalikBagwala-d62976?style=flat&labelColor=d62976&logo=threads&logoColor=white)](https://threads.net/the_insane_bagwala)
+[![Twitter Badge](https://img.shields.io/badge/-@MalikBagwala-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MalikBagwala)](https://twitter.com/MalikBagwala)
+[![Mail Badge](https://img.shields.io/badge/-hello@maalik.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hello@maalik.dev)
+[![](https://komarev.com/ghpvc/?username=MalikBagwala&color=blue&label=Profile%20Views)](https://github.com/MalikBagwala/MalikBagwala)
+[![](https://img.shields.io/github/followers/MalikBagwala?label=GitHub%20Followers)](https://github.com/MalikBagwala?tab=followers)
+<br />
+
+### Statistics
+
+<span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikBagwala&layout=compact&theme=shades-of-purple&hide=php&langs_count=6" /></span>
+<span><a href="https://wakatime.com/@MalikBagwala"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=MalikBagwala&layout=compact&theme=shades-of-purple&langs_count=6" /></a></span>
+<span><a href="https://github.com/MalikBagwala?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=MalikBagwala&show_icons=true&theme=shades-of-purple&count_private=true&hide=contribs" /></a></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikBagwala&theme=shades-of-purple" height="150" alt="Stat Streak" /></span>
