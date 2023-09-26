@@ -7,7 +7,7 @@
   </samp>
 </p>
 
-- 🏢 I'm currently working as a Front-end Lead at [Vesatogo Innovations](https://www.linkedin.com/company/vesatogo).
+- 🏢 I'm currently working as a CTO at [Vesatogo Innovations](https://www.linkedin.com/company/vesatogo).
 - ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
 - 🤓 I’m currently learning [Django](https://www.djangoproject.com/start/overview/) and other backend technologies and transitioning towards a Full stack developer.
