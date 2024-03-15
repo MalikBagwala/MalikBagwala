@@ -3,7 +3,7 @@
 <p align="left">
   <samp>
     <a href="https://maalik.dev" target='_blank'>website & portfolio</a> .
-    <a href="https://maalik.dev/blog" target='_blank'>blog</a> 
+    <a href="https://medium.com/@maalik" target='_blank'>blog</a> 
   </samp>
 </p>
 
