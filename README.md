@@ -17,11 +17,11 @@ I'm Malik Bagwala, a seasoned full-stack software engineer with over four years 
 
 3. **Proven Track Record:** I have successfully delivered projects on time and within scope, consistently achieving high client satisfaction.
 
-- 🏢 I'm currently working as a CTO at [Vesatogo Innovations](https://www.linkedin.com/company/vesatogo).
+- 🏢 I'm currently working as a Full Stack Engineer (Freelance).
 - ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
 - ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
 - 🤓 I’m currently learning [Django](https://www.djangoproject.com/start/overview/) and other backend technologies and transitioning towards a Full stack developer.
-- 💬 Ask me anything about React, Django, Docker and Devops
+- 💬 Ask me anything about React, Django, Docker and Devops.
 - 📫 You can reach out to me directly through [Telegram](https://t.me/MalikBagwala).
 
 #### If you're seeking a full-stack developer with a strong emphasis on front-end excellence, let's connect.
