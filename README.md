@@ -19,8 +19,7 @@ I'm Malik Bagwala, a seasoned full-stack software engineer with over four years 
 
 - 🏢 I'm currently working as a Full Stack Engineer (Freelance).
 - ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
-- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React.
-- 🤓 I’m currently learning [Django](https://www.djangoproject.com/start/overview/) and other backend technologies and transitioning towards a Full stack developer.
+- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React, Django.
 - 💬 Ask me anything about React, Django, Docker and Devops.
 - 📫 You can reach out to me directly through [Telegram](https://t.me/MalikBagwala).
 
