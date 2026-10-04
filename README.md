@@ -1,34 +1,34 @@
-﻿<h1 class="flex"><img src="./wave.gif" width="32" />&nbsp;Hi, I'm Maalik</h1>
+<h1 class="flex"><img src="./wave.gif" width="32" />&nbsp;Hi, I'm Maalik</h1>
 
 <p align="left">
   <samp>
-    <a href="https://maalik.dev" target='_blank'>website & portfolio</a> .
-    <a href="https://medium.com/@maalik" target='_blank'>blog</a> 
+    <a href="https://ashternext.com" target='_blank'>ashternext.com</a> .
+    <a href="https://medium.com/@maalik" target='_blank'>blog</a>
   </samp>
 </p>
 
-I'm Malik Bagwala, a seasoned full-stack software engineer with over four years of expertise in building exceptional front-end applications and robust back-end solutions. My skills include ReactJS, HTML, CSS, Graphql, Django, Python, and proficiency in DevOps practices.
+I'm Malik Bagwala, founder of [AshterNext](https://ashternext.com). We're obsessed with creating exceptional customer and user experiences, supercharged by AI. We design and build apps, websites, SaaS platforms and design systems that are easy to use, good to look at, and help people and brands reach their business goals.
 
-**Why Choose Me?**
+**How we work**
 
-1. **Holistic Ecosystem Mastery:** Beyond ReactJS, I bring a comprehensive skill set, navigating seamlessly through the front-end and back-end stacks. My expertise in Django and Python complements my strong front-end capabilities.
+1. **Users first:** Every project starts with a deep understanding of the people who will use it. Product design leads, and the code follows.
 
-2. **User Experience Focus:** Crafting seamless and intuitive user experiences is at the core of my development philosophy. From design to implementation, I prioritize user satisfaction.
+2. **Supercharged by AI:** AI is part of what we build and how we build it, wherever it makes the experience better for your users.
 
-3. **Proven Track Record:** I have successfully delivered projects on time and within scope, consistently achieving high client satisfaction.
+3. **Thoughtful technology choices:** Technical expertise matters a little differently in this day and age. We choose the technology, AI included, that delivers the best solution for your business, not just the one we know best.
 
-- 🏢 I'm currently working as a Full Stack Engineer (Freelance).
-- ⚛️ I'm currently diving into the world of [React](https://reactjs.org) and [Next.js](https://nextjs.org).
-- ♻️ I'm on the lookout for collaboration opportunities in open source projects related to React, Django.
-- 💬 Ask me anything about React, Django, Docker and Devops.
-- 📫 You can reach out to me directly through [Telegram](https://t.me/maalikb).
+- 🏢 Founder of [AshterNext](https://ashternext.com), a software studio in Nashik, India.
+- 🤖 Building AI and LLM-powered products alongside web, mobile and SaaS.
+- 🛠️ Usually working with React, Next.js, TypeScript, Flutter, Node.js, Python, Django, GraphQL, PostgreSQL, AWS and Kubernetes, picked to fit the problem.
+- 💬 Ask me about product design, customer experience, building with AI, React or Django.
+- 📫 Reach me at [malik@ashternext.com](mailto:malik@ashternext.com) or on [Telegram](https://t.me/ashterb).
 
-#### If you're seeking a full-stack developer with a strong emphasis on front-end excellence, let's connect.
+#### Building something your users should love? Let's talk.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Malik%20Bagwala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikbagwala/)
-[![Mail Badge](https://img.shields.io/badge/-@MalikBagwala-e2432a?style=flat&labelColor=e2432a&logo=gitlab&logoColor=white)](https://gitlab.com/MalikBagwala)
-[![Twitter Badge](https://img.shields.io/badge/-@MalikBagwala-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MalikBagwala)](https://twitter.com/MalikBagwala)
-[![Mail Badge](https://img.shields.io/badge/-hello@maalik.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hello@maalik.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/-Malik%20Bagwala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malikbagwala/)
+[![GitLab Badge](https://img.shields.io/badge/-@MalikBagwala-e2432a?style=flat&labelColor=e2432a&logo=gitlab&logoColor=white)](https://gitlab.com/MalikBagwala)
+[![X Badge](https://img.shields.io/badge/-@MalikBagwala-000000?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/MalikBagwala)
+[![Mail Badge](https://img.shields.io/badge/-malik@ashternext.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:malik@ashternext.com)
 [![](https://komarev.com/ghpvc/?username=MalikBagwala&color=blue&label=Profile%20Views)](https://github.com/MalikBagwala/MalikBagwala)
 [![](https://img.shields.io/github/followers/MalikBagwala?label=GitHub%20Followers)](https://github.com/MalikBagwala?tab=followers)
 <br />
